@@ -8,5 +8,6 @@ public class Main {
         System.out.println((long) airport.getAllAircrafts().size());
         System.out.println(airport.getAllAircrafts().stream().count());
         System.out.println(airport.getAllAircrafts().size());
+
     }
 }
